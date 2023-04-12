@@ -15,7 +15,8 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 ---
 
-I am a Master Student in the Department of Computer Science at Hanyang University in Seoul, Korea. 
+I am a Master Student in the Department of Computer Science at [Hanyang University](https://www.hanyang.ac.kr/web/eng) under the supervision of Professor Yong Suk Choi. 
+I received my undergraduate degree on Computer Science from [Kwangwoon University](https://www.kw.ac.kr/en/) in Seoul, Korea.
 
 My research interests include:
 - Machine Learning
