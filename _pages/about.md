@@ -20,4 +20,4 @@ I received my undergraduate degree on Computer Science from [Kwangwoon Universit
 My research interests include:
 - Machine Learning
 - Natural Language Processing
-- Text Summarization, Abstrative Summarization
+- Text Summarization, Abstractive Summarization
