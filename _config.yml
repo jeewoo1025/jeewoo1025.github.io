@@ -7,7 +7,6 @@ first_name: Jeewoo
 middle_name:
 last_name: Sul
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   
 footer_text: >
@@ -86,7 +85,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Jeewoo Sul # blog_name will be displayed in your blog page
-blog_description: I post everything I'am interested in!
+blog_description: Everything I'am interested in!
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
