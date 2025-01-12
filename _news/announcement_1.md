@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-06-18 08:57:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I attend NAACL 2024 at Mexico City, Mexico and present our poster!

@@ -13,27 +13,23 @@
   contents:
     - title: M.S.
       institution: Hanyang University, Seoul, Korea
-      year: 2022 - 2023
+      year: 2023.03 - 2024.02
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Major: Computer Science
+        - Advisor: Yong Suk Choi
     - title: B.S.
       institution: Kwangwoon University, Seoul, Korea
-      year: 2017 - 2022
+      year: 2017.03 - 2022.02
       description:
-        - Description 1.
-        - Description 2.
+        - Major: Computer Science
+        - GPA 4.11 / 4.5
 
 - title: Experience
   type: time_table
   contents:
     - title: Research Engineer
       institution: AI Lab, LG Electronics
-      year: 2024 - present
+      year: 2024.02 - present
       description:
         - Description 1.
         - Description 2.
