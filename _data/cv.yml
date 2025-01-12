@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Jeewoo Sul
     - name: Date of Birth
-      value: 14th March 1879
+      value: 25th October 1997
     - name: Languages
-      value: English, German
+      value: Korean, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: M.S.
+      institution: Hanyang University, Seoul, Korea
+      year: 2022 - 2023
       description:
         - Description 1.
         - Description 2.
