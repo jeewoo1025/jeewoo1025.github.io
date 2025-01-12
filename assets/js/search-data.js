@@ -382,16 +382,14 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+    },{id: "news-i-attend-acl-2023-at-toronto-canada-and-do-an-oral-presentation-session-summarization",
+          title: 'I attend ACL 2023 at Toronto, Canada and do an oral presentation (Session:...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-i-m-starting-a-new-position-as-a-research-engineer-at-lg-electronics",
+          title: 'I’m starting a new position as a research engineer at LG Electronics!',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-i-attend-naacl-2024-at-mexico-city-mexico-and-present-our-poster",
+          title: 'I attend NAACL 2024 at Mexico City, Mexico and present our poster!',
           description: "",
           section: "News",},{
         id: 'social-email',
