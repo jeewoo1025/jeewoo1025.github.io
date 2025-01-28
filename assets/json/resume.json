@@ -21,7 +21,7 @@
       "startDate": "2024-02-13",
       "endDate": "",
       "summary": "Development of an AI Coding Assistant using LLMs",
-      "highlights": ["Code LLMs", "Code Generation"]
+      "highlights": []
     }
   ],
   "education": [
@@ -108,12 +108,22 @@
   ],
   "interests": [
     {
-      "name": "NLP",
+      "name": "Research",
       "icon": "fa-solid fa-tag",
       "keywords": [
         "AI Coding Assistant",
         "Prompt Tuning",
         "Abstractive Text Summarization"
+      ]
+    },
+    {
+      "name": "Hobby",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "🍰 Baking",
+        "✈️ Traveling",
+        "🎾 Badminton",
+        "🤸 Bungee Fitness"
       ]
     }
   ]
