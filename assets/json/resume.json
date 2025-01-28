@@ -16,6 +16,8 @@
     {
       "name": "AI Lab, LG Electronics",
       "position": "Research Engineer",
+      "location": "Seoul, Korea",
+      "url": "https://www.lg.com/global/",
       "startDate": "2024-02-13",
       "endDate": "",
       "summary": "Development of an AI Coding Assistant using LLMs",
@@ -109,7 +111,7 @@
       "name": "NLP",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Code LLMs",
+        "AI Coding Assistant",
         "Prompt Tuning",
         "Abstractive Text Summarization"
       ]
