@@ -22,7 +22,7 @@
       "startDate": "2024-02-13",
       "endDate": "",
       "summary": "Development of an AI Coding Assistant using LLMs",
-      "highlights": ["Advisor: Yong Suk Choi"]
+      "highlights": []
     }
   ],
   "education": [
@@ -35,7 +35,7 @@
       "startDate": "2022-03-02",
       "endDate": "2024-02-16",
       "score": "",
-      "courses": ["GPA 4.11 / 4.5"]
+      "courses": ["Advisor: Yong Suk Choi", "GPA 4.3 / 4.5"]
     },
     {
       "institution": "Kwangwoon University, Seoul, Korea",
@@ -46,7 +46,7 @@
       "startDate": "2017-03-02",
       "endDate": "2022-02-24",
       "score": "",
-      "courses": []
+      "courses": ["GPA 4.11 / 4.5"]
     }
   ],
   "publications": [
