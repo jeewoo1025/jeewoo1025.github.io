@@ -11,7 +11,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
   
 footer_text: >
   
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 👋 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -84,7 +84,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: 🙂✈️🏸💻🎄🎧🩷 # blog_name will be displayed in your blog page
+blog_name: 🙂✈️🏸💻🎄🩷 # blog_name will be displayed in your blog page
 blog_description: Everything I am interested in!
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
@@ -626,7 +626,7 @@ third_party_libraries:
 
 jekyll_get_json:
   - data: resume
-    json: https://jeewoo1025.github.io/assets/pdf/CV_Jeewoo_Sul.pdf # it can also be an url
+    json: assets/json/resume.json # it can also be an url
 
 jsonresume:
   - basics
