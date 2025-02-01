@@ -1,12 +1,12 @@
 {
-  "general information": {
+  "basics": {
     "full name": "Jeewoo Sul (설지우)",
     "summary": "Research Engineer, Computer Science M.S.",
     "email": "jeewoo1025@gmail.com",
     "country": "Korea",
     "languages": "Korean, English (intermediate)"
   },
-  "experience": [
+  "work": [
     {
       "name": "AI Lab, LG Electronics",
       "position": "Research Engineer",
