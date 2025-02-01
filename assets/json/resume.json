@@ -1,18 +1,12 @@
 {
-  "basics": {
-    "name": "Jeewoo Sul",
-    "label": "Research Engineer",
+  "general information": {
+    "full name": "Jeewoo Sul (설지우)",
+    "summary": "Research Engineer, Computer Science M.S.",
     "email": "jeewoo1025@gmail.com",
     "country": "Korea",
-    "location": {
-      "address": "",
-      "postalCode": "02542",
-      "city": "Seoul",
-      "countryCode": "KR",
-      "region": "Seoul"
-    }
+    "languages": "Korean, English (intermediate)"
   },
-  "work": [
+  "experience": [
     {
       "name": "AI Lab, LG Electronics",
       "position": "Research Engineer",
@@ -34,7 +28,7 @@
       "startDate": "2022-03-02",
       "endDate": "2024-02-16",
       "score": "",
-      "courses": ["Advisor: Yong Suk Choi", "GPA 4.3 / 4.5"]
+      "courses": ["Advisor: Yong Suk Choi", "GPA 4.3 / 4.5", "Research: NLP, Abstractive Summarization, Prompt Tuning"]
     },
     {
       "institution": "Kwangwoon University, Seoul, Korea",
@@ -54,7 +48,7 @@
       "publisher": "NAACL",
       "releaseDate": "2024-06-18",
       "url": "https://aclanthology.org/2024.naacl-short.44/",
-      "summary": "Investigating the transferability of soft prompts based on features (ex. answer formant, train dataset size) in Question Answering"
+      "summary": "Investigating the transferability of soft prompts based on features (ex. answer formats, train dataset size) in Question Answering"
     },
     {
       "name": "Balancing Lexical and Semantic Quality in Abstractive Summarization",
@@ -92,18 +86,6 @@
         "Streamlit",
         "LangFuse"
       ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "Korean",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Intermediate",
-      "icon": ""
     }
   ],
   "interests": [
