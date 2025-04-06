@@ -30,18 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-",
-      
-        title: "",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/2025-04-06-attention-review/";
-        
-      },
-    },{id: "news-i-attend-acl-2023-at-toronto-canada-and-do-an-oral-presentation-session-summarization",
+        },{id: "news-i-attend-acl-2023-at-toronto-canada-and-do-an-oral-presentation-session-summarization",
           title: 'I attend ACL 2023 at Toronto, Canada and do an oral presentation (Session:...',
           description: "",
           section: "News",},{id: "news-i-m-starting-a-new-position-as-a-research-engineer-at-lg-electronics",
