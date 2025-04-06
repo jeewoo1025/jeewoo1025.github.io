@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Paper Review] Attention Is All You Need
+title: (Paper Review) Attention Is All You Need
 date: 2025-04-06 21:00:00
 description: Questions About Transformer
 tags: Research
