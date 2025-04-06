@@ -17,8 +17,6 @@ social: true # includes social icons at the bottom of the page
 
 👋 Hello, I am Jeewoo Sul (설지우).
 
-🙏 I'm currently rebuilding my homepage. Please wait until it's done!
-
 I am a research engineer at LG Electronics (Seoul, Korea). I obtained my M.S. in Computer Science at <a href="https://www.hanyang.ac.kr/web/eng/home">Hanyang University</a>, where I was fortunate to be advised by <a href='http://ai.hanyang.ac.kr/main'>Yong Suk Choi</a>. Prior to that, I received B.S. in Computer Science from <a href='https://www.kw.ac.kr/en/'>Kwangwoon University</a>. 
 
 My research lies in the area of natural language proessing with large language models. I had mainly studied Abstractive Summarization and Prompt Tuning (2022-2023). I am currently excited about AI Coding Assistants, Code LLMs, and Code Generation. 
