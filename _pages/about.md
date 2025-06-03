@@ -29,9 +29,8 @@ I am currently developing AI systems that understand and interact with code usin
 - ***Prompt Engineering***: Designing and optimizing prompts to achieve high-performance, task specific outcomes.
 - ***Reinforcement Learning***: Aligning models with developers' values and preferences.
 
-<br>
-
-🔙 Past Research Experience
-
+🔙 Past Research Experience <br>
 As a graduate student majoring in Computer Science at <a href="http://cse.hanyang.ac.kr/eng/">Hanyang University</a>, I conducted research in Natural Language Processing under the supervision of Prof. <a href='http://ai.hanyang.ac.kr/main'>Yong Suk Choi</a>, focusing on [Abstractive Text Summarization](https://aclanthology.org/2023.acl-short.56/) and [Prompt Tuning](https://aclanthology.org/2024.naacl-short.44/).
 
+🤗 I'm excited about potential collaborations—please don't hesitate to get in touch! <br>
+🚨 ***Note***: Due to the rise in phishing emails, I kindly request that you contact me via LinkedIn or a verified email address. Emails from unverified sources may not receive a response. Thank you for your understanding!
