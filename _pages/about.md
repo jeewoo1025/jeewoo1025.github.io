@@ -24,9 +24,9 @@ My goal is **to build AI systems that are reliable and beneficial**.
 I am currently developing AI systems that understand and interact with code using large language models (LLMs). My work explores how AI can support and optimize every stage of the software development lifecycle.
 
 🔍 Current Research Interests
-- ***AI Coding Agent***: Enabling advanced code review, refactoring, comment generation, and more.
+- ***AI Coding Agent***: Enhancing developer productivity with advanced AI-powered coding support.
 - ***LLM-as-a-Judge***: Utilizing large language models for robust evaluation of code quality and model performance.
-- ***Prompt Engineering***: Designing and optimizing prompts to achieve high-performance, task specific outcomes.
+- ***Prompt Engineering***: Designing and optimizing prompts to achieve high-performance, task specific outcomes in code-related tasks.
 - ***Reinforcement Learning***: Aligning models with developers' values and preferences.
 
 🔙 Past Research Experience <br>
