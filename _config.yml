@@ -84,18 +84,18 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-# blog_name: 🙂✈️🏸💻🤖🎧 # blog_name will be displayed in your blog page
-# blog_description: Everything I am interested in!
-# permalink: /blog/:year/:title/
-# lsi: false # produce an index for related posts
+blog_name: Lessons Learned # blog_name will be displayed in your blog page
+blog_description: Records of work and life
+permalink: /blog/:year/:title/
+lsi: false # produce an index for related posts
 
-# # Pagination
-# pagination:
-#   enabled: true
+# Pagination
+pagination:
+  enabled: true
 
-# related_blog_posts:
-#   enabled: true
-#   max_related: 5
+related_blog_posts:
+  enabled: true
+  max_related: 5
 
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
@@ -113,13 +113,13 @@ giscus:
   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: jeewoo-folio # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
+# external_sources:
 #   - name: medium.com
 #     rss_url: https://medium.com/@al-folio/feed
 #   - name: Google Blog
@@ -250,16 +250,16 @@ terser:
 # Jekyll Archives
 # -----------------------------------------------------------------------------
 
-# jekyll-archives:
-#   enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
-#   layouts:
-#     year: archive-year
-#     tag: archive-tag
-#     category: archive-category
-#   permalinks:
-#     year: "/blog/:year/"
-#     tag: "/blog/tag/:name/"
-#     category: "/blog/category/:name/"
+jekyll-archives:
+  enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
+  layouts:
+    year: archive-year
+    tag: archive-tag
+    category: archive-category
+  permalinks:
+    year: "/blog/:year/"
+    tag: "/blog/tag/:name/"
+    category: "/blog/category/:name/"
 
 # display_tags: ["Research", "Conference", "Daily", "Travel"] # these tags will be displayed on the front page of your blog
 # display_categories: [] # these categories will be displayed on the front page of your blog
