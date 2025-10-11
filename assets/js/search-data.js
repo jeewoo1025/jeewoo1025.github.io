@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-i-attend-acl-2023-at-toronto-canada-and-do-an-oral-presentation-session-summarization",
+        },{id: "post-reflections-on-korea-39-s-ai-ecosystem-from-a-junior-researcher",
+      
+        title: "reflections on korea&#39;s ai ecosystem from a junior researcher",
+      
+      description: "thoughts on fundamental challenges in korean ai research and industry",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/koreaAI/";
+        
+      },
+    },{id: "news-i-attend-acl-2023-at-toronto-canada-and-do-an-oral-presentation-session-summarization",
           title: 'I attend ACL 2023 at Toronto, Canada and do an oral presentation (Session:...',
           description: "",
           section: "News",},{id: "news-i-m-starting-a-new-position-as-a-research-engineer-at-lg-electronics",
