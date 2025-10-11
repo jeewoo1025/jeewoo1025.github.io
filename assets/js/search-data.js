@@ -30,15 +30,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-",
+        },{id: "post-challenges-in-korea-s-ai-ecosystem",
       
-        title: "",
+        title: "Challenges in Korea’s AI Ecosystem",
       
-      description: "",
+      description: "Reflections on systemic challenges in Korea’s AI research and industry landscape",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2025/2025-10-10-koreaAI/";
+          window.location.href = "/blog/2025/koreaAI/";
         
       },
     },{id: "news-i-attend-acl-2023-at-toronto-canada-and-do-an-oral-presentation-session-summarization",
