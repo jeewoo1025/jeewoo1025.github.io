@@ -10,7 +10,7 @@ ninja.data = [{
       window.location.href = "/";
     },
   },{id: "nav-blog",
-          title: "blog",
+          title: "Blog",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -30,15 +30,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-reflections-on-korea-39-s-ai-ecosystem-from-a-junior-researcher",
+        },{id: "post-",
       
-        title: "reflections on korea&#39;s ai ecosystem from a junior researcher",
+        title: "",
       
-      description: "thoughts on fundamental challenges in korean ai research and industry",
+      description: "",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2025/koreaAI/";
+          window.location.href = "/blog/2025/2025-10-10-koreaAI/";
         
       },
     },{id: "news-i-attend-acl-2023-at-toronto-canada-and-do-an-oral-presentation-session-summarization",
