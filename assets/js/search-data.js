@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-challenges-in-korea-s-ai-ecosystem",
+        },{id: "post-2025-ytn-seoul-tour-marathon",
+      
+        title: "2025 YTN Seoul Tour Marathon",
+      
+      description: "Running my first 10K marathon",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/marathon/";
+        
+      },
+    },{id: "post-challenges-in-korea-s-ai-ecosystem",
       
         title: "Challenges in Korea’s AI Ecosystem",
       
