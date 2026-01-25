@@ -2,9 +2,7 @@
   "basics": {
     "full name": "Jeewoo Sul (설지우)",
     "summary": "AI Research Engineer specialized in AI and NLP",
-    "email": "jeewoo1025@gmail.com",
-    "country": "Korea",
-    "languages": "Korean (native), English"
+    "email": "jeewoo1025@gmail.com"
   },
   "work": [
     {
@@ -92,9 +90,8 @@
       "name": "Research",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Human-AI Collboration",
-        "Understanding and Evaluating LLMs",
-        "Reinforcement Learning"
+        "Interpretability",
+        "Human-Centric AI"
       ]
     },
     {
