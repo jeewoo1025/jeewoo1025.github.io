@@ -17,14 +17,13 @@ social: true # includes social icons at the bottom of the page
 
 👋 Hello, I am Jeewoo Sul (설지우).
 
-I am an AI Research Engineer at LG Electronics (Seoul, Korea) since February 2024. My goal is **to develop reliable AI that genuinely supports human needs**. I am currently developing AI Coding Agent using large language models (LLMs). My work explores how AI can support and optimize every stage of the software development lifecycle.
+I am an AI Research Engineer at LG Electronics (Seoul, Korea) since February 2024. My goal is **to develop reliable AI that genuinely supports human needs**. 
 
 <br>
 
 🔍 Current Research Interests
-- ***Data-centric AI***: how can we engineer data that reflects human preferences?
-- ***Human-AI Collaboration***: what does it take for AI agents to collaborate effectively with humans in real-world environments?
-
+- ***Interpretability***: understanding and analyzing latent activations in language models to make model behaviors controllable and aligned with human preferences
+- ***Human-centric AI***: developing evaluation metrics, benchmarks, and methods that concretly reflect diverse human perferences 
 <br>
 
 🔙 Past Research Experience <br>
