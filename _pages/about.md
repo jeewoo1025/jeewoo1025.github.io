@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://www.lg.com/global/'>Research Engineer at LG Electronics</a>
+subtitle: <a href='https://www.lg.com/global/'>AI Research Engineer at LG Electronics</a>
 
 profile:
   align: right
@@ -17,13 +17,15 @@ social: true # includes social icons at the bottom of the page
 
 👋 Hello, I am Jeewoo Sul (설지우).
 
-I am an AI Research Engineer at LG Electronics (Seoul, Korea) since February 2024. My goal is **to develop reliable AI that genuinely supports human needs**. 
+I am an AI Research Engineer at LG Electronics (Seoul, Korea) since February 2024. <br>
+My goal is **to develop reliable AI that genuinely supports human needs**. 
 
 <br>
 
 🔍 Current Research Interests
-- ***Interpretability***: understanding and analyzing latent activations in language models to make model behaviors controllable and aligned with human preferences
-- ***Human-centric AI***: developing evaluation metrics, benchmarks, and methods that concretly reflect diverse human perferences 
+- ***Mechanistic Interpretability***: understanding and analyzing latent activations in language models to make model behaviors controllable and aligned with human preferences
+- ***Human-centric AI***: developing evaluation metrics, benchmarks, and methods that reflect diverse human preferences 
+
 <br>
 
 🔙 Past Research Experience <br>

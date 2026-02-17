@@ -1,18 +1,18 @@
 {
   "basics": {
     "full name": "Jeewoo Sul (설지우)",
-    "summary": "AI Research Engineer specialized in AI and NLP",
+    "summary": "AI Research Engineer",
     "email": "jeewoo1025@gmail.com"
   },
   "work": [
     {
       "name": "AI Lab, LG Electronics",
-      "position": "Research Engineer",
+      "position": "AI Research Engineer",
       "location": "Seoul, Korea",
       "url": "https://www.lg.com/global/",
       "startDate": "2024-02-13",
       "endDate": "",
-      "summary": "Development of an AI Coding Assistant using LLMs",
+      "summary": "Development of an AI Coding Assistant using LLMs (2024.02 - 2025.12)",
       "highlights": []
     }
   ],
