@@ -22,9 +22,11 @@ My goal is **to develop reliable AI that genuinely supports human needs**.
 
 <br>
 
-🔍 Current Research Interests
-- ***Mechanistic Interpretability***: understanding and analyzing latent activations in language models to make model behaviors controllable and aligned with human preferences
-- ***Human-centric AI***: developing evaluation metrics, benchmarks, and methods that reflect diverse human preferences 
+🔍 Research Interests
+
+- **Memory and Context Management**: Building memory systems that decide what to keep, forget, retrieve, and compress for personalization.
+
+- **Evaluation of Agentic Systems**: Developing evaluation methods and benchmarks that capture diverse human preferences in real-world environments.
 
 <br>
 
@@ -33,5 +35,8 @@ As a master's student majoring in Computer Science at <a href="http://cse.hanyan
 
 <br>
 
-🤗 I'm excited about potential collaborations — please don't hesitate to get in touch! <br>
+🤗 I'm excited about potential collaborations — please don't hesitate to get in touch! 
+
+<br>
+
 🚨 ***Note***: Due to the rise in phishing emails, I kindly request that you contact me via LinkedIn or a verified email address. Emails from unverified sources may not receive a response. Thank you for your understanding!
