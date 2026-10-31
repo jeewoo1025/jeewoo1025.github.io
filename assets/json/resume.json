@@ -63,23 +63,6 @@
       "summary": "Proposing a novel training method in which a re-ranker balances the lexical and semantic quality in Abstractive Summarization."
     }
   ],
-  "talks": [
-    {
-      "name": "Invited Talk",
-      "event": "KSC 2023 (Korea Software Congress)",
-      "date": "2023-12"
-    }
-  ],
-  "service": [
-    {
-      "role": "Reviewer",
-      "venue": "EACL 2027 Industry Track"
-    },
-    {
-      "role": "Reviewer",
-      "venue": "EMNLP 2026 REALM Workshop"
-    }
-  ],
   "skills": [
     {
       "name": "Programming Languages",
