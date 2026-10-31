@@ -1,19 +1,23 @@
 {
   "basics": {
     "full name": "Jeewoo Sul (설지우)",
-    "summary": "AI Research Engineer",
+    "summary": "AI Research Engineer | Specializing in LLM & Agents",
     "email": "jeewoo1025@gmail.com"
   },
   "work": [
     {
-      "name": "AI Lab, LG Electronics",
-      "position": "AI Research Engineer",
+      "name": "AI Lab, CTO Division, LG Electronics",
+      "position": "Senior Research Engineer",
       "location": "Seoul, Korea",
       "url": "https://www.lg.com/global/",
       "startDate": "2024-02-13",
       "endDate": "",
-      "summary": "Development of an AI Coding Assistant using LLMs (2024.02 - 2025.12)",
-      "highlights": []
+      "summary": "",
+      "highlights": [
+        "Long-term Memory for AI Agents",
+        "Memory/Agents Benchmark & Evaluation",
+        "AI Coding Agent"
+      ]
     }
   ],
   "education": [
@@ -25,8 +29,11 @@
       "studyType": "Master",
       "startDate": "2022-03-02",
       "endDate": "2024-02-16",
-      "score": "",
-      "courses": ["Advisor: Yong Suk Choi", "Research: NLP, Abstractive Summarization, Prompt Tuning"]
+      "score": "4.3/4.5",
+      "courses": [
+        "Advisor: Yong Suk Choi (https://ai.hanyang.ac.kr/)",
+        "Research: NLP, Abstractive Summarization, Prompt Tuning"
+      ]
     },
     {
       "institution": "Kwangwoon University, Seoul, Korea",
@@ -36,7 +43,7 @@
       "studyType": "Bachelor",
       "startDate": "2017-03-02",
       "endDate": "2022-02-24",
-      "score": "",
+      "score": "4.11/4.5",
       "courses": []
     }
   ],
@@ -54,6 +61,23 @@
       "releaseDate": "2023-07-15",
       "url": "https://aclanthology.org/2023.acl-short.56/",
       "summary": "Proposing a novel training method in which a re-ranker balances the lexical and semantic quality in Abstractive Summarization."
+    }
+  ],
+  "talks": [
+    {
+      "name": "Invited Talk",
+      "event": "KSC 2023 (Korea Software Congress)",
+      "date": "2023-12"
+    }
+  ],
+  "service": [
+    {
+      "role": "Reviewer",
+      "venue": "EACL 2027 Industry Track"
+    },
+    {
+      "role": "Reviewer",
+      "venue": "EMNLP 2026 REALM Workshop"
     }
   ],
   "skills": [
@@ -82,27 +106,6 @@
         "(Infrastructure) Docker",
         "(Model Training/Serving) PyTorch, vLLM",
         "(Data Visualization) Pandas, Matplotlib, Seaborn"
-      ]
-    }
-  ],
-  "interests": [
-    {
-      "name": "Research",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Interpretability",
-        "Human-Centric AI"
-      ]
-    },
-    {
-      "name": "Hobby",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "🏃‍♀️ Running",
-        "🍰 Baking",
-        "✈️ Traveling",
-        "🏸 Badminton",
-        "🤸 Bungee Fitness"
       ]
     }
   ]

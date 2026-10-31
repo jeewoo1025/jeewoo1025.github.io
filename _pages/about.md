@@ -15,28 +15,18 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-👋 Hello, I am Jeewoo Sul (설지우).
+👋 Hi, I'm Jeewoo Sul, an AI Research Engineer at LG Electronics in Seoul, Korea.
 
-I am an AI Research Engineer at LG Electronics (Seoul, Korea) since February 2024. <br>
-My goal is **to develop reliable AI that genuinely supports human needs**. 
-
-<br>
-
-🔍 Research Interests
-
-- **Memory and Context Management**: Building memory systems that decide what to keep, forget, retrieve, and compress for personalization.
-
-- **Evaluation of Agentic Systems**: Developing evaluation methods and benchmarks that capture diverse human preferences in real-world environments.
+My goal is **to develop reliable AI that genuinely supports human needs**. I am interested in research that makes a real difference in people's lives, and I hope to extend this across both digital and physical AI.
 
 <br>
 
-🔙 Past Research Experience <br>
-As a master's student majoring in Computer Science at <a href="http://cse.hanyang.ac.kr/eng/">Hanyang University</a>, I conducted research in NLP and AI under the supervision of Prof. <a href='http://ai.hanyang.ac.kr/main'>Yong Suk Choi</a>, focusing on [Abstractive Text Summarization](https://aclanthology.org/2023.acl-short.56/) and [Prompt Transfer for QA](https://aclanthology.org/2024.naacl-short.44/).
+🧭 **Journey**
+
+During my M.S. in Computer Science at <a href="http://cse.hanyang.ac.kr/eng/">Hanyang University</a>, advised by Prof. <a href='http://ai.hanyang.ac.kr/main'>Yong Suk Choi</a>, I studied how language models understand and condense information. That work led to papers on [abstractive text summarization](https://aclanthology.org/2023.acl-short.56/) (ACL 2023) and [prompt transfer for question answering](https://aclanthology.org/2024.naacl-short.44/) (NAACL 2024).
+
+Since joining LG Electronics in February 2024, I have been developing LLM- and Agent-based technologies across a range of domains, including coding, personalization, and long-term conversation.
 
 <br>
 
-🤗 I'm excited about potential collaborations — please don't hesitate to get in touch! 
-
-<br>
-
-🚨 ***Note***: Due to the rise in phishing emails, I kindly request that you contact me via LinkedIn or a verified email address. Emails from unverified sources may not receive a response. Thank you for your understanding!
+🤗 I'm always open to collaborations and conversations. Feel free to reach out!
