@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-2025-ytn-seoul-tour-marathon",
+        },{id: "post-openclaw-skills",
+      
+        title: "OpenClaw + Skills",
+      
+      description: "A quick look at OpenClaw and how it selects skills via its system prompt",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/openclaw-skills/";
+        
+      },
+    },{id: "post-2025-ytn-seoul-tour-marathon",
       
         title: "2025 YTN Seoul Tour Marathon",
       
