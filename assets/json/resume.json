@@ -13,11 +13,7 @@
       "startDate": "2024-02-13",
       "endDate": "",
       "summary": "",
-      "highlights": [
-        "Long-term Memory for AI Agents",
-        "Memory/Agents Benchmark & Evaluation",
-        "AI Coding Agent"
-      ]
+      "highlights": ["Long-term Memory for AI Agents", "Memory/Agents Benchmark & Evaluation", "AI Coding Agent"]
     }
   ],
   "education": [
@@ -30,10 +26,7 @@
       "startDate": "2022-03-02",
       "endDate": "2024-02-16",
       "score": "4.3/4.5",
-      "courses": [
-        "Advisor: Yong Suk Choi (https://ai.hanyang.ac.kr/)",
-        "Research: NLP, Abstractive Summarization, Prompt Tuning"
-      ]
+      "courses": ["Advisor: Yong Suk Choi (https://ai.hanyang.ac.kr/)", "Research: NLP, Abstractive Summarization, Prompt Tuning"]
     },
     {
       "institution": "Kwangwoon University, Seoul, Korea",
@@ -68,14 +61,7 @@
       "name": "Programming Languages",
       "level": "Master",
       "icon": "",
-      "keywords": [
-        "Python (Advanced)",
-        "Java (Intermediate)",
-        "SQL (Intermediate)",
-        "Shell (Intermediate)",
-        "JS/TS (Basic)",
-        "C/C++ (Basic)"
-      ]
+      "keywords": ["Python (Advanced)", "Java (Intermediate)", "SQL (Intermediate)", "Shell (Intermediate)", "JS/TS (Basic)", "C/C++ (Basic)"]
     },
     {
       "name": "Frameworks/Technologies",
