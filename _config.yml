@@ -632,6 +632,8 @@ jsonresume:
   - work
   - education
   - publications
+  - service
+  - talks
   - projects
   - volunteer
   - awards

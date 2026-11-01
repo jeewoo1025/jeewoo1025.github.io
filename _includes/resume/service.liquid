@@ -1,0 +1,14 @@
+<ul class="card-text font-weight-light list-group list-group-flush">
+  {% for content in data[1] %}
+    <li class="list-group-item">
+      <h6 class="ml-1 ml-md-4 mb-0">
+        <b>{{ content.position }}</b>:
+        {% if content.url and content.url != '' %}
+          <a href="{{ content.url }}">{{ content.organization }}</a>
+        {% else %}
+          {{ content.organization }}
+        {% endif %}
+      </h6>
+    </li>
+  {% endfor %}
+</ul>
