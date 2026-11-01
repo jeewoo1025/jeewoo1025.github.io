@@ -64,6 +64,7 @@ Before writing the full paper, **you should firmly decide which conference or jo
 2. About a month before the submission deadline, a "Call for Papers" page opens. It contains everything important about paper submission (long/short paper requirements, important dates, etc.), so check it every day.
    - e.g., EMNLP 2023 Call for Papers: [https://2023.emnlp.org/calls/main_conference_papers/](https://2023.emnlp.org/calls/main_conference_papers/)
 3. For EACL/NAACL/ACL held in 2024, the last ARR deadline applies. See the tweet below!
+
    - [https://twitter.com/annargrs/status/1679239716523089922/photo/1](https://twitter.com/annargrs/status/1679239716523089922/photo/1)
 
    {% include figure.liquid loading="eager" path="assets/img/230723_arr_deadline.png" class="img-fluid rounded z-depth-1" %}
