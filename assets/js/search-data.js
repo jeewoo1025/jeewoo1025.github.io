@@ -52,6 +52,17 @@ ninja.data = [{
           window.location.href = "/blog/2025/koreaAI/";
         
       },
+    },{id: "post-from-paper-draft-to-publication",
+      
+        title: "From Paper Draft to Publication",
+      
+      description: "My process for drafting, submitting, and presenting a paper at AI conferences and journals",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2023/paper-process/";
+        
+      },
     },{id: "news-i-attend-acl-2023-at-toronto-canada-and-do-an-oral-presentation-session-summarization",
           title: 'I attend ACL 2023 at Toronto, Canada and do an oral presentation (Session:...',
           description: "",
